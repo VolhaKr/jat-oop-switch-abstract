@@ -28,6 +28,4 @@ public class Money {
   public Money(String outputDescription) {
     this.outputDescription = outputDescription;
   }
-
-
 }
